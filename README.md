@@ -8,7 +8,8 @@ In order to prepare for the possible mass retirement exodus that could be upon t
 -- Analysis conducted based on current title of retirement eligible employees again reduced the previous count as now only the most current title was considered in the collection.  Still excessively large at a bit above 90K eligible employees.
 -- The analysis warns that for both the Senior Engineer and Senior Staff levels, there are between 28k - 29K retirement eligible employees.
 -- There are 1549 employees eligible for the mentorship program most within the Senior Staff and Engineer levels.
-**insert image of mentorship eligible EEs and Retiring titles
+![screenshot1](https://github.com/VRivera13/Pewlett-Hackard-Analysis/blob/main/Data/Retiring%20Titles.png)
+![screenshot2](https://github.com/VRivera13/Pewlett-Hackard-Analysis/blob/main/Data/Mentoriship%20Eligibility.png)
 
 ## Summary
 -- Based on the current data, there will be a littl over 90,000 roles that will need to be filled should the full "silver tsunami" take place.
